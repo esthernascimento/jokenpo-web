@@ -24,7 +24,7 @@ Este projeto foi criado com **HTML, CSS e JavaScript** para praticar conceitos d
 
 O projeto está disponível aqui no link abaixo:  
 
-🔗 [Jokenpô](https://esthernascimento.github.io//)  
+🔗 [Jokenpô]([https://esthernascimento.github.io//](https://esthernascimento.github.io/jokenpo-web/))  
 
 ## 📸 Prévia do Projeto
 
