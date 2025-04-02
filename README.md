@@ -20,9 +20,11 @@ Este projeto foi criado com **HTML, CSS e JavaScript** para praticar conceitos d
 - JavaScript ⚡
 - Bootstrap Icons 
 
-## Link do repositório
+## ⚡ Acesso ao Site  
 
+O projeto está disponível aqui no link abaixo:  
 
+🔗 [Jokenpô](https://esthernascimento.github.io//)  
 
 ## 📸 Prévia do Projeto
 
