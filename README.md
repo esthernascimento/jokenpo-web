@@ -1,6 +1,6 @@
-# ✂️🪨📄 Jokenpô - Imersão Dev Alura 2025 👽💚🌐
+# 🪨📄✂️ Jokenpô - Imersão Dev Alura 2025 
 
-Bem-vindo ao **Jokenpô**, um jogo interativo de Pedra, Papel e Tesoura desenvolvido durante a **Imersão Dev da Alura 2025**! 🚀🎮
+Bem-vindo ao **Jokenpô**, um jogo interativo de Pedra, Papel e Tesoura desenvolvido durante a **Imersão Dev da Alura 2025**! 👽💚🎮
 
 ## 🎯 Sobre o Projeto
 
@@ -29,7 +29,9 @@ Este projeto foi criado com **HTML, CSS e JavaScript** para praticar conceitos d
 
 ## 📸 Prévia do Projeto
 
-![Jokenpô - Imagem do Jogo](img/printweb.png)
+![Jokenpô - Imagem do Jogo no Pc](img/printweb.png)
+
+![Jokenpô - Imagem do Jogo no Celular](img/printcel.png)
 
 
 ## 💙 Créditos
