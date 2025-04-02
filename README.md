@@ -20,27 +20,22 @@ Este projeto foi criado com **HTML, CSS e JavaScript** para praticar conceitos d
 - JavaScript ⚡
 - Bootstrap Icons 
 
-## 🚀 Como Executar
+## Link do repositório
 
-1️⃣ Clone este repositório ou baixe os arquivos 📂
-2️⃣ Abra o arquivo `index.html` em seu navegador 🌐
-3️⃣ Digite sua idade para acessar o jogo 🎮
-4️⃣ Escolha Pedra, Papel ou Tesoura e divirta-se! 🎉
+
 
 ## 📸 Prévia do Projeto
 
 ![Jokenpô - Imagem do Jogo no Pc](img/printweb.png)
 
-![Jokenpô - Imagem do Jogo no Celular](img/printcel.png)
 
+##  💚 Créditos
 
-## 💙 Créditos
-
-Projeto desenvolvido por **Esther Nascimento** durante a **Imersão Dev da Alura - 2025**. 🏆🚀
+Projeto desenvolvido por **Esther Nascimento** durante a **Imersão Dev da Alura - 2025**. 🏆
 
 📌 Me siga nas redes sociais:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esthernascimentooficial)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esthernascimentooficial)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/esthernascimento)  
 
- *Divirta-se jogando!* 👽💚🌐✨
+ *Divirta-se jogando!* 👽✨
