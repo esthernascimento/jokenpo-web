@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/responsivo.css">
+    <link rel="shortcut icon" href="./img/estrela.PNG" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>Jokenpo!</title>
+</head>
+
+<body>
+    <img src="https://i.postimg.cc/GpCxYmvc/title.png" alt="Logo" class="logo">
+
+    
+
+    <div class="container">
+        <h1>Jogo de Pedra, Papel e Tesoura</h1>
+        <div id="idade-form">
+            <h2>Verificação de Idade</h2>
+            <p>Para jogar, você precisa ter 18 anos ou mais.</p>
+            <input type="number" id="idade" placeholder="Digite sua idade" min="1" max="120">
+            <button onclick="verificarIdade()">Verificar</button>
+        </div>
+
+        <div id="jogo">
+            <h2>Escolha uma opção:</h2>
+            <div class="opcoes">
+                <div class="opcao" onclick="jogar(1)">
+                    <img src="./img/pedra.PNG" alt="Pedra">
+                    <p>Pedra</p>
+                </div>
+                <div class="opcao" onclick="jogar(2)">
+                    <img src="./img/papel.PNG" alt="Papel">
+                    <p>Papel</p>
+                </div>
+                <div class="opcao" onclick="jogar(3)">
+                    <img src="./img/tesoura.PNG" alt="Tesoura">
+                    <p>Tesoura</p>
+                </div>
+            </div>
+
+            <div id="resultado">
+                <p>Escolha uma opção acima para jogar!</p>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <img src="./img/logoAlura.png" alt="logo Alura" class="logoAlura">
+        <h1>Alura - Imersão DEV - 2025</h1>
+
+        <div class="btn-social">
+            <a href="https://www.instagram.com/esthernascimentooficial"><button><i
+                        class="bi bi-instagram"></i></button></a>
+            <a href="https://www.linkedin.com/in/esthernascimentooficial"><button><i
+                        class="bi bi-linkedin"></i></button></a>
+            <a href="https://github.com/esthernascimento"><button><i class="bi bi-github"></i></button></a>
+
+        </div>
+
+    </footer>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

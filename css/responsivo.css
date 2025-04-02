@@ -1,0 +1,79 @@
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .logo {
+        max-width: 150px;
+    }
+    .container {
+        padding: 10px;
+    }
+
+    .container h1{
+        font-size: 20px;
+    }
+
+    #idade-form {
+        max-width: 90%;
+        height: auto;
+        padding: 20px;
+    }
+
+    #idade-form h2 {
+        font-size: 18px;
+    }
+
+    #idade-form input {
+        width: 100%;
+    }
+
+    #idade-form button {
+        width: 100%;
+    }
+
+    #jogo {
+        padding: 15px;
+    }
+
+    .opcoes {
+      
+        gap: 15px;
+    }
+
+    .opcao {
+        width: 80px;
+        height: 80px;
+    }
+
+    .opcao img {
+        width: 100%;
+        height: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+        padding: 15px;
+    }
+
+    footer img {
+        width: 150px;
+    }
+
+    footer h1 {
+        font-size: 14px;
+    }
+
+    footer .btn-social {
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    footer .btn-social button {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+}
