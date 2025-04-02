@@ -29,7 +29,8 @@ Este projeto foi criado com **HTML, CSS e JavaScript** para praticar conceitos d
 
 ## 📸 Prévia do Projeto
 
-*(Adicione aqui um print do jogo! 🖼️)*
+![Jokenpô - Imagem do Jogo](.img/printweb)
+
 
 ## 💙 Créditos
 
